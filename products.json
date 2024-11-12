@@ -1,0 +1,69 @@
+[
+    
+    {
+        "id": 3,
+        "name": "DRESS 3",
+        "price": 150,
+        "image": "img/top14.jpg"
+    },
+    {
+        "id": 5,
+        "name": "DRESS 4",
+        "price": 300,
+        "image": "img/top15.jpg"
+    },{
+        "id": 6,
+        "name": "DRESS 5",
+        "price": 500,
+        "image": "img/top16.jpg"
+    },{
+        "id": 7,
+        "name": "DRESS 6",
+        "price": 700,
+        "image": "img/top17.jpg"
+    },{
+        "id": 8,
+        "name": "DRESS 7",
+        "price": 200,
+        "image": "img/top18.jpg"
+    },
+    {
+        "id": 9,
+        "name": "DRESS 8",
+        "price": 300,
+        "image": "img/top19.jpg"
+    },{
+        "id": 10,
+        "name": "DRESS 9",
+        "price": 400,
+        "image": "img/top19.jpg"
+    },{
+        "id": 11,
+        "name": "DRESS 10",
+        "price": 200,
+        "image": "img/top20.jpg"
+    },
+    {
+        "id": 2,
+        "name": "DRESS 2",
+        "price": 100,
+        "image": "img/top30.jpg"
+    },
+    {
+        "id": 1,
+        "name": "DRESS 1",
+        "price": 40,
+        "image": "img/top1.jpg"
+    },{
+        "id": 12,
+        "name": "DRESS 11",
+        "price": 800,
+        "image": "img/top21.jpg"
+    },
+    {
+        "id": 13,
+        "name": "DRESS 13",
+        "price": 600,
+        "image": "img/top7.jpg"
+    }
+]
